@@ -4,8 +4,8 @@
 
 '''
 functional:
-	alaly.py——分析文件里的最后一列数据判断是否为空
-	csv.py——写入txt文件批量数据
+	alaly.py——分析文件里的最后一列数据判断是否为空 \n
+	csv.py——写入txt文件批量数据. \n
 	http_server.py——一个http等的服务端
 	output_info.py——输出到文件里指定批量数据
 	output_xml.py——生成一个或多个HTML标签
